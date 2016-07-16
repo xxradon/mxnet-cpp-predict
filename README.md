@@ -1,0 +1,1 @@
+This is a mxnet cpp demo for predicting based on pretrained model in qt windows version.
